@@ -1,2 +1,2 @@
 # Projeto-TecBlog
- Tec Blog -praticando alguns conhecimento básicos de CSS 
+ Tec Blog -praticando alguns conhecimentos básicos de CSS 
